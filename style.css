@@ -5,21 +5,47 @@ ul {
     background-color: #dddddd;
     align-items: left;
 }
+
 li {
     display: inline;
     float: left;
 }
+
 a {
     display: block;
     padding: 8px;
     background-color: #dddddd;
+}
 
+#ranu {
+    position: absolute;
+    margin: auto;
+    width: 100px;
+    top: 0px;
+    right: 0px;
 }
-#sonu {
+
+#ranua {
     text-align: center;
-    margin-top: 25%;
+    margin: auto;
+    width: 50%;
+    position: absolute;
+    top: 200px;
+    bottom: 500px;
+    left: 100px;
 }
-#sonu2 {
-    text-align: left;
-    margin: 25%;
+
+#ranub {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    position: absolute;
+    top: 350px;
+    left: 100px;
+}
+
+.ranuc {
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
 }
