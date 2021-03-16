@@ -1,0 +1,25 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #dddddd;
+    align-items: left;
+}
+li {
+    display: inline;
+    float: left;
+}
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+
+}
+#sonu {
+    text-align: center;
+    margin-top: 25%;
+}
+#sonu2 {
+    text-align: left;
+    margin: 25%;
+}
